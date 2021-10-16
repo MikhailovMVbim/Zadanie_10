@@ -36,6 +36,7 @@ namespace Zadanie_10
                 Console.WriteLine("Введены некорректные данные. Преобразование не выполнено.");
                 Console.ReadKey();
             }
+            Console.ReadKey();
         }
     }
 
